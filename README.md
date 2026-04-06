@@ -193,7 +193,7 @@ SELECT COUNT(*) FROM posts_filtered;
 
 ---
 
-![Vista del DAG en Airflow](img/5.png)
+![Vista del DAG en Airflow](img/4.png)
 
 ## Resultados obtenidos
 
