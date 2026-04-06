@@ -1,0 +1,10 @@
+# Airflow logs and temporary files
+logs/*
+!logs/.gitkeep
+plugins/*
+!plugins/.gitkeep
+config/*
+.env
+
+# Docker
+.docker/
